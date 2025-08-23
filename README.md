@@ -26,4 +26,9 @@ bash <(curl -s https://github.com/infinityForge-labs/blueprint-installer/raw/ref
 ```
 updated with error handeling
 ```bash
-bash <(curl -s https://github.com/infinityForge-labs/blueprint-installer/raw/refs/heads/main/ultimate-install.sh)
+bash <(curl -fsSL https://github.com/infinityForge-labs/blueprint-installer/raw/refs/heads/main/ultimate-install.sh)
+```
+animated and error fix version
+```bash
+bash <(curl -fsSL https://github.com/infinityForge-labs/blueprint-installer/raw/refs/heads/main/ultra-install.sh)
+```
